@@ -1,0 +1,7 @@
+type Book{
+     titre : String,
+     published : String,
+     datePublication : String,
+     price : Int ,
+     resume : String
+}
